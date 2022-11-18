@@ -7,6 +7,7 @@ import About from "./about/about";
 import Portfolio from "./portfolio/portfolio";
 import Contact from "./contact/contact";
 import Home from "./home/home";
+import Notfound from "./notfound/notfound";
 
 
 
@@ -15,7 +16,8 @@ const routes = createBrowserRouter([
     {index:true,element:<Home/>},
     {path:'port',element:<Portfolio/>},
     {path:'con',element:<Contact/>},
-    {path:'about',element:<About/>}
+    {path:'about',element:<About/>},
+    {path:'*',element:<Notfound/>}
 
 ]}]);
 
