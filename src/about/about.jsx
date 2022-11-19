@@ -4,7 +4,7 @@ export default class About extends Component {
   render() {
     return (
       <div className="about pb-5 pt-5 ">
-        <div className="container text-center ">
+        <div className="container text-center ab ">
           <h1 className="heading">ABOUT</h1>
           <div className="dash"></div>
           <i class="fa fa-star" aria-hidden="true"></i>
