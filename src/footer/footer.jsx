@@ -5,7 +5,7 @@ export default class Footer extends Component {
   render() {
     return (
       <>
-      <div className=' w-100  text-center footer  pt-5'>
+      <div className=' w-100  text-center footer  pt-5 flex-wrap'>
         <div className="row container-fluid d-flex justify-content-around">
             <div className="col-4 ">
               <h3>LOCATION</h3>

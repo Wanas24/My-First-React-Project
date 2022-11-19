@@ -154,6 +154,7 @@ transition: 1s ;
 /* about */
 .about{
   background-color: rgba(26, 188, 156, 0.9);
+  height: 60vh;
 }
 .about p{
   font-size: 20px;
