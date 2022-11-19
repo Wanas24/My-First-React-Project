@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My-First-React-Project/static/css/main.ce51b825.css",
-    "main.js": "/My-First-React-Project/static/js/main.072414fc.js",
+    "main.css": "/My-First-React-Project/static/css/main.011d9bc4.css",
+    "main.js": "/My-First-React-Project/static/js/main.552866fd.js",
     "static/js/787.6669436e.chunk.js": "/My-First-React-Project/static/js/787.6669436e.chunk.js",
     "static/media/fa-solid-900.ttf": "/My-First-React-Project/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/My-First-React-Project/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -19,12 +19,12 @@
     "static/media/fa-v4compatibility.ttf": "/My-First-React-Project/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
     "static/media/fa-v4compatibility.woff2": "/My-First-React-Project/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/My-First-React-Project/index.html",
-    "main.ce51b825.css.map": "/My-First-React-Project/static/css/main.ce51b825.css.map",
-    "main.072414fc.js.map": "/My-First-React-Project/static/js/main.072414fc.js.map",
+    "main.011d9bc4.css.map": "/My-First-React-Project/static/css/main.011d9bc4.css.map",
+    "main.552866fd.js.map": "/My-First-React-Project/static/js/main.552866fd.js.map",
     "787.6669436e.chunk.js.map": "/My-First-React-Project/static/js/787.6669436e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce51b825.css",
-    "static/js/main.072414fc.js"
+    "static/css/main.011d9bc4.css",
+    "static/js/main.552866fd.js"
   ]
 }
