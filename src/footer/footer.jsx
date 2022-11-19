@@ -7,18 +7,18 @@ export default class Footer extends Component {
       <>
       <div className=' w-100  text-center footer  pt-5'>
         <div className="row container-fluid d-flex justify-content-around">
-            <div className="col-3 ">
+            <div className="col-4 ">
               <h3>LOCATION</h3>
               <p>2215 John Daniel Drive Clark, MO 65243</p>
             </div>
-            <div className="col-3 ">
+            <div className="col-4 ">
               <h3>AROUND THE WEB</h3>
               <i class="fa-brands fa-facebook icon" aria-hidden="true"></i>
               <i class="fa-brands fa-twitter icon" aria-hidden="true"></i>
               <i class="fa-brands fa-linkedin icon" aria-hidden="true"></i>
               <i class="fa-brands fa-dribbble icon" aria-hidden="true"></i>
             </div>
-            <div className="col-3">
+            <div className="col-4">
               <h3>ABOUT FREELANCER</h3>
               <p>Freelance is a free to use, MIT licensed Bootstrap theme created by Route</p>
             </div>

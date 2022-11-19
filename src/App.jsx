@@ -17,7 +17,7 @@ const routes = createBrowserRouter([
     {path:'port',element:<Portfolio/>},
     {path:'con',element:<Contact/>},
     {path:'about',element:<About/>},
-    {path:'*',element:<Notfound/>}
+    {path:'*',element:<Home/>}
 
 ]}]);
 
