@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-First-React-Project/static/css/main.af7144ec.css",
+    "main.css": "/My-First-React-Project/static/css/main.8f72d3c6.css",
     "main.js": "/My-First-React-Project/static/js/main.46400fc9.js",
     "static/js/787.6669436e.chunk.js": "/My-First-React-Project/static/js/787.6669436e.chunk.js",
     "static/media/fa-solid-900.ttf": "/My-First-React-Project/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
@@ -19,12 +19,12 @@
     "static/media/fa-v4compatibility.ttf": "/My-First-React-Project/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
     "static/media/fa-v4compatibility.woff2": "/My-First-React-Project/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/My-First-React-Project/index.html",
-    "main.af7144ec.css.map": "/My-First-React-Project/static/css/main.af7144ec.css.map",
+    "main.8f72d3c6.css.map": "/My-First-React-Project/static/css/main.8f72d3c6.css.map",
     "main.46400fc9.js.map": "/My-First-React-Project/static/js/main.46400fc9.js.map",
     "787.6669436e.chunk.js.map": "/My-First-React-Project/static/js/787.6669436e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af7144ec.css",
+    "static/css/main.8f72d3c6.css",
     "static/js/main.46400fc9.js"
   ]
 }
