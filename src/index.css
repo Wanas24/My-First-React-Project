@@ -90,7 +90,7 @@ transition: 1s ;
   font-size: 70px;
 }
 .dash{
-  width: 120px;
+  width: 100px;
   height: 3px;
   display: inline-block;
   background-color: #fff;
@@ -101,7 +101,7 @@ transition: 1s ;
 /* portfolio */
 
 .dashdark{
-  width: 120px;
+  width: 100px;
   height: 3px;
   display: inline-block;
   background-color: #2c3e50;
